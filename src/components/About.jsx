@@ -6,7 +6,7 @@ const About = ({ isPage = false }) => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="section-title">
-            Sobre <span className="text-9xl md:text-[14rem] lg:text-[6rem] text-white tracking-tight HHTwo leading-[0.75] -my-8">TCM</span>
+            Sobre <span className="text-4xl md:text-8xl text-white tracking-tight HHTwo leading-none">TCM</span>
           </h2>
           <div className="w-24 h-1 bg-gym-accent mx-auto mb-8"></div>
         </div>

@@ -16,7 +16,7 @@ const Schedule = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="section-title">
-            Nuestros <span className="text-gym-accent lg:text-[5rem] HHTwo">Turnos </span> Disponibles
+            Nuestros <span className="text-gym-accent text-7xl md:text-8xl lg:text-[6rem] HHTwo">Turnos </span> Disponibles
           </h2>
           <div className="w-24 h-1 bg-gym-accent mx-auto mb-6"></div>
           <p className="section-subtitle">
